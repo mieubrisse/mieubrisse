@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey I'm Kevin
+## I'm Kevin
 
 Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/agenc). Just AI and I.
 
@@ -11,8 +11,6 @@ Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/
 <a href="https://www.instagram.com/kevinjtoday"><img src="icons/instagram.svg" width="24" alt="Instagram"></a>
 
 </div>
-
----
 
 **🚀 [AgenC](https://github.com/mieubrisse/agenc)** - Dark Startup OS. You're the CEO, the Claudes are your company. Do all your work through Claudes, and evolve them when they mess up.
 
