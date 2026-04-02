@@ -4,7 +4,11 @@
 
 Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/agenc). Just AI and I.
 
-[Website](https://kevintoday.com) · [Substack](https://mieubrisse.substack.com/) · [Linkedin](https://www.linkedin.com/in/kevintoday/) · [X](https://x.com/kevinjtoday) · [Instagram](https://www.instagram.com/kevinjtoday)
+<a href="https://kevintoday.com"><img src="icons/globe.svg" width="24" alt="Website"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mieubrisse.substack.com/"><img src="icons/substack.svg" width="24" alt="Substack"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevintoday/"><img src="icons/linkedin.svg" width="24" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/kevinjtoday"><img src="icons/x.svg" width="24" alt="X"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/kevinjtoday"><img src="icons/instagram.svg" width="24" alt="Instagram"></a>
 
 </div>
 
