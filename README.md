@@ -12,6 +12,8 @@ Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/
 
 </div>
 
+**👑 [Substack Sovereign](https://substacksovereign.com/)** - Write Markdown. Push to Github. Publish to Substack.
+
 **🚀 [AgenC](https://github.com/mieubrisse/agenc)** - Dark Startup OS. You're the CEO, the Claudes are your company. Do all your work through Claudes, and evolve them when they mess up.
 
 **⚡ [cmdk](https://github.com/mieubrisse/cmdk)** - ⌘-K for your terminal. Fuzzy-find and open anything from the command line.
