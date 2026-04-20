@@ -28,4 +28,4 @@ Solo founder building dark startups using [Alembiq](https://alembiq.app) and [Ag
 
 **📚 [kindle-highlight-scraper](https://github.com/mieubrisse/kindle-highlight-scraper)** - Export all your Kindle highlights and notes as JSON. No official API, so it scrapes Amazon's highlights page.
 
-**🍵 [teact](https://github.com/mieubrisse/teact)** - React-like component framework for terminal UIs. Flexbox layout, responsive sizing, and HTML-analogous components for BubbleTea.
+**🍵 [teact](https://github.com/mieubrisse/teact)** - React-like component framework for the [BubbleTea](https://github.com/charmbracelet/bubbletea) TUI framework. Flexbox layout, responsive sizing, and HTML-analogous components.
