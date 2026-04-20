@@ -1,8 +1,8 @@
 <div align="center">
 
-## I'm Kevin
+# I'm Kevin
 
-Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/agenc). Just AI and I.
+Solo founder building dark startups using [Alembiq](https://alembiq.app) and [AgenC](https://github.com/mieubrisse/agenc), just AI and I.
 
 <a href="https://kevintoday.com" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/globe.svg"><source media="(prefers-color-scheme: light)" srcset="icons/globe-dark.svg"><img src="icons/globe-dark.svg" width="24" alt="Website"></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://mieubrisse.substack.com/" title="Substack"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/substack.svg"><source media="(prefers-color-scheme: light)" srcset="icons/substack-dark.svg"><img src="icons/substack-dark.svg" width="24" alt="Substack"></picture></a>&nbsp;&nbsp;&nbsp;
