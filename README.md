@@ -11,6 +11,7 @@ Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/
 <a href="https://www.instagram.com/kevinjtoday" title="Instagram"><img src="icons/instagram.svg" width="24" alt="Instagram"></a>
 
 </div>
+***⚗️ [Alembiq](https://alembiq.app)** - Build your personal AI OS to power your solopreneur life.
 
 **👑 [Substack Sovereign](https://substacksovereign.com/)** - Write Markdown. Push to Github. Publish to Substack.
 
