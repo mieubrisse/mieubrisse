@@ -4,11 +4,11 @@
 
 Solo founder building dark startups using [AgenC](https://github.com/mieubrisse/agenc). Just AI and I.
 
-<a href="https://kevintoday.com" title="Website"><img src="icons/globe.svg" width="24" alt="Website"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://mieubrisse.substack.com/" title="Substack"><img src="icons/substack.svg" width="24" alt="Substack"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kevintoday/" title="LinkedIn"><img src="icons/linkedin.svg" width="24" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/kevinjtoday" title="X"><img src="icons/x.svg" width="24" alt="X"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/kevinjtoday" title="Instagram"><img src="icons/instagram.svg" width="24" alt="Instagram"></a>
+<a href="https://kevintoday.com" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/globe.svg"><source media="(prefers-color-scheme: light)" srcset="icons/globe-dark.svg"><img src="icons/globe-dark.svg" width="24" alt="Website"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mieubrisse.substack.com/" title="Substack"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/substack.svg"><source media="(prefers-color-scheme: light)" srcset="icons/substack-dark.svg"><img src="icons/substack-dark.svg" width="24" alt="Substack"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kevintoday/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="icons/linkedin-dark.svg"><img src="icons/linkedin-dark.svg" width="24" alt="LinkedIn"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/kevinjtoday" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/x.svg"><source media="(prefers-color-scheme: light)" srcset="icons/x-dark.svg"><img src="icons/x-dark.svg" width="24" alt="X"></picture></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/kevinjtoday" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/instagram.svg"><source media="(prefers-color-scheme: light)" srcset="icons/instagram-dark.svg"><img src="icons/instagram-dark.svg" width="24" alt="Instagram"></picture></a>
 
 </div>
 
