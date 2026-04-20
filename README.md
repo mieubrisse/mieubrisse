@@ -25,3 +25,7 @@ Solo founder building dark startups using [Alembiq](https://alembiq.app) and [Ag
 **⚙️ [go-cli-template](https://github.com/mieubrisse/go-cli-template)** - Starter template for Go CLI tools with Homebrew publishing baked in.
 
 **🤑 [wealthdraft](https://github.com/mieubrisse/wealthdraft)** - Tax liability calculator. Predict your federal tax bill before you file.
+
+**📚 [kindle-highlight-scraper](https://github.com/mieubrisse/kindle-highlight-scraper)** - Export all your Kindle highlights and notes as JSON. No official API, so it scrapes Amazon's highlights page.
+
+**🖥️ [teact](https://github.com/mieubrisse/teact)** - React-like component framework for terminal UIs. Flexbox layout, responsive sizing, and HTML-analogous components for BubbleTea.
