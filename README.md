@@ -10,6 +10,8 @@ Solo founder building dark startups using [Alembiq](https://alembiq.app) and [Ag
 <a href="https://x.com/kevinjtoday" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/x.svg"><source media="(prefers-color-scheme: light)" srcset="icons/x-dark.svg"><img src="icons/x-dark.svg" width="24" alt="X"></picture></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/kevinjtoday" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/instagram.svg"><source media="(prefers-color-scheme: light)" srcset="icons/instagram-dark.svg"><img src="icons/instagram-dark.svg" width="24" alt="Instagram"></picture></a>
 
+📅 **[Book time with me →](https://mieubrisse.substack.com/p/chat-with-me)**
+
 </div>
 
 **⚗️ [Alembiq](https://alembiq.app)** - Build your own AI OS to power your solopreneur life.
