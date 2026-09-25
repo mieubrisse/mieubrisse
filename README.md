@@ -14,19 +14,19 @@ Solo founder building dark startups using [Alembiq](https://alembiq.app) and [Ag
 
 </div>
 
-**⚗️ [Alembiq](https://alembiq.app)** - Build your own AI OS to power your solopreneur life.
-
-**👑 [Substack Sovereign](https://substacksovereign.com/)** - Write Markdown. Push to Github. Publish to Substack.
-
 **🚀 [AgenC](https://github.com/mieubrisse/agenc)** - Dark Startup OS. You're the CEO, the Claudes are your company. Do all your work through Claudes, and evolve them when they mess up.
+
+**⚗️ [Alembiq](https://alembiq.app)** - Build your own AI [exobrain](https://mieubrisse.substack.com/p/you-need-an-exobrain) to power your solopreneur life.
+
+**🦢 [Kurtosis](https://github.com/kurtosis-tech/kurtosis)** - Ephemeral composable microservice environments atop Docker & Kubernetes. Especially good at blockchain testing.
 
 **⚡ [cmdk](https://github.com/mieubrisse/cmdk)** - ⌘-K for your terminal. Fuzzy-find and open anything from the command line.
 
 **🚫 [yappblocker](https://github.com/mieubrisse/yappblocker)** - macOS app blocker. Kill distracting apps on a schedule so you don't have to rely on willpower.
 
-**⚙️ [go-cli-template](https://github.com/mieubrisse/go-cli-template)** - Starter template for Go CLI tools with Homebrew publishing baked in.
+**🤓 [Man vs Myopia](https://github.com/mieubrisse/man-vs-myopia-app)** - Track your visual acuity at home to monitor long-term trends.
 
-**🤑 [wealthdraft](https://github.com/mieubrisse/wealthdraft)** - Tax liability calculator. Predict your federal tax bill before you file.
+**🤑 [Wealthdraft](https://github.com/mieubrisse/wealthdraft)** - Predict your federal tax bill before you file, track net worth over time, and calculate portfolio rebalances.
 
 **📚 [kindle-highlight-scraper](https://github.com/mieubrisse/kindle-highlight-scraper)** - Export all your Kindle highlights and notes as JSON. No official API, so it scrapes Amazon's highlights page.
 
